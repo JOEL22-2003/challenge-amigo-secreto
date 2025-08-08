@@ -11,8 +11,8 @@ Este es un proyecto hecho con HTML, CSS y JavaScript que simula el sorteo de un 
 
 ## 🛠️ Tecnologías utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## ▶️ ¿Cómo ejecutar?
